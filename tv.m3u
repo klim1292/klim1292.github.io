@@ -1,7 +1,25 @@
 ﻿
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fHBdSTx/01-Belarus-1.png",Беларусь 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/230px-Belsat_%282022%29.svg.png",Белсат
 #EXTGRP:Эфирные HD
-https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/belarus-1.png",Беларусь 1
+#EXTGRP:Эфирные HD
+https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w607880066_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/belarus-2.png",Беларусь 2
+#EXTGRP:Эфирные HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w1250797643_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/belarus-3.png",Беларусь 3
+#EXTGRP:Эфирные HD
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w2104017221_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/belarus-5.png",Беларусь 5
+#EXTGRP:Эфирные HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w691969767_b2660000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/belarus-24.png",Беларусь 24
+#EXTGRP:Эфирные HD
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w155522323_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/220px-FreeDOMUAlogo.svg.png",FREEДОМ
+#EXTGRP:Эфирные HD
+https://freedom.cdn-02.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_low_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CWvdq9v/22-ONT-1.png",ОНТ
 #EXTGRP:Эфирные HD
 https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8?version=2
@@ -17,30 +35,15 @@ https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8XZbfHm/23-NTV-Belarus.png",НТВ-Беларусь
 #EXTGRP:Эфирные HD
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hCTMWrC/02-Belarus-2.png",Беларусь 2
-#EXTGRP:Эфирные HD
-https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mXXDzqq/03-Belarus-3.png",Беларусь 3
-#EXTGRP:Эфирные HD
-https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Bk9KQ1/05-Belarus-5.png",Беларусь 5
-#EXTGRP:Эфирные HD
-https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7Wf5F/BS.png",Белсат
-#EXTGRP:Эфирные HD
-http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0LrZsB/25-Vosmoj.png",8 канал Беларусь
 #EXTGRP:HD
 https://mfe.svc.ott.zala.by/hls/ZXUZZKCA6P_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2zBxgw/26-VTV.png",ВТВ
 #EXTGRP:HD
 http://178.124.141.171:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7R3DZQ7/33-Setanta-2.png",Setanta Sports 2
-#EXTGRP:HD
-https://mfe.svc.ott.zala.by/hls/5T3FNFICQ4/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TvJ3R4C/32-Setanta-1.png",Setanta Sports 1
-#EXTGRP:HD
-https://mfe.svc.ott.zala.by/hls/FWHTTL8YXU/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+#EXTGRP:Спорт
+https://s11.flowerscast.com:999/hls/eurosp1.m3u8?md5=Em6_KJSKOXPP5LvlscEGyw&expires=1674410913
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tQcTtj/80-Ohotnik-i-rybolov.png",Охотник и рыболов HD
 #EXTGRP:HD
 https://mfe.svc.ott.zala.by/hls/4FDNBEDGFV/variant.m3u8?version=2
@@ -194,30 +197,15 @@ https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2zBxgw/26-VTV.png",ВТВ
 #EXTGRP:Развлекательные
 https://mfe.svc.ott.zala.by/hls/CRCQFRNUFJ_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cw0JLfX/56-Sarafan.png",Сарафан
-#EXTGRP:Развлекательные
-https://mfe.svc.ott.zala.by/hls/Y9GP8UFTZO/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKfDzrS/83-Kvartal-TV.png",KVARTAL TV
 #EXTGRP:Развлекательные
 https://mfe.svc.ott.zala.by/hls/CH_KVARTALTV_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nmsZ7kq/muztv.png",БелМуз ТВ
+#EXTINF:-1 tvg-logo="https://picon.ml/1muz.png",1Muz
 #EXTGRP:Музыкальные
-http://89.163.242.67:8181/play/748f49b0-8441-4bd7-af69-69517eb2029a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6nJWj3v/30-RU-TV.png",RU.TV
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://static-europaplus.cdnvideo.ru/images/europa_tv.png",Europa Plus TV
 #EXTGRP:Музыкальные
-https://ip3.pokaz.me:1443/596/index.m3u8?wmsAuthSign=1674362557p542i54i512i73Sd0b42ca21028e9fe8248e09b14b843c8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD706VH/34-Europa-plus.png",Europa Plus TV
-#EXTGRP:Музыкальные
-https://ip4.pokaz.me:1443/574/index.m3u8?wmsAuthSign=1674362447p542i54i512i73Se7dc9e722c28e02c8649d86db8286c77
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pjfcwxP/57-Shanson-TV.png",Шансон-TB
-#EXTGRP:Музыкальные
-https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Жара
-#EXTGRP:Музыкальные
-https://ip1.pokaz.me:1443/144/index.m3u8?wmsAuthSign=1674362390p542i54i512i73S604fd2085f019230a1b10ea1cb4cab4e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gyWwNXb/31-RTVI.png",RTVI
-#EXTGRP:Новости
-https://mfe.svc.ott.zala.by/hls/PN9VRQ5DGR/variant.m3u8?version=2
+https://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=L3OnRZW7N5SBWuNDNx7NSg&e=1675008390&hls_proxy_host=9c8915e36e8d8eb5b24f110588c17530&zoid=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6J5wp1h/06-Belbiznes.png",БелБизнесЧенел
 #EXTGRP:Новости
 https://mfe.svc.ott.zala.by/hls/MCEQ4XBTHP/variant.m3u8?version=2
