@@ -34,7 +34,7 @@ https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/220px-FreeDOMUAlogo.svg.png",FREEДОМ
 #EXTGRP:Эфирные HD
-https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_high_.m3u8
+https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_audio_ukr_high_.m3u8
 #EXTINF:-1 tvg-logo="http://oneliketv.net/images/1plus1.png",1+1
 #EXTGRP:Эфирные HD
 http://iptv.prosto.tv:7000/ch1/tracks-v1a1a2/mono.m3u8?ip=37.215.46.117&id=0&live=1&e=1677049102&st=LBx-3jr-fOJPFfnExIZHLg
